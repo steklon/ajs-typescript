@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tpagyh9bgt69cox3?svg=true)](https://ci.appveyor.com/project/steklon/ajs-typescript)
